@@ -44,7 +44,7 @@ a {
     background-color: var(--white-color);
     z-index: var(--z-fixed);
     transition: .5s;
-    background-color: var(--orange-color);
+ 
 }
 
 .header_toggle {
@@ -207,3 +207,12 @@ a {
 .h-80{
 height: 80%;
 }
+.notselecteditems{
+ 
+        text-align: CENTER;
+        font-size: 75px;
+        color: var(--orange-color);
+        margin-top: 15%;
+}
+
+

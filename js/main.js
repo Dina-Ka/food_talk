@@ -42,6 +42,7 @@ window.onload = function () {
         class="nav_name">${element}</span> </div>`;
   });
   document.getElementById("sidebarlist").innerHTML = sidebarElement;
+
 };
 
 function getData(food) {
